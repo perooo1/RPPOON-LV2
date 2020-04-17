@@ -1,0 +1,7 @@
+C:\Users\korisnik\source\repos\RPPOON LV2\RPPOON LV2\bin\Debug\RPPOON LV2.exe.config
+C:\Users\korisnik\source\repos\RPPOON LV2\RPPOON LV2\bin\Debug\RPPOON LV2.exe
+C:\Users\korisnik\source\repos\RPPOON LV2\RPPOON LV2\bin\Debug\RPPOON LV2.pdb
+C:\Users\korisnik\source\repos\RPPOON LV2\RPPOON LV2\obj\Debug\RPPOON LV2.csprojAssemblyReference.cache
+C:\Users\korisnik\source\repos\RPPOON LV2\RPPOON LV2\obj\Debug\RPPOON LV2.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\RPPOON LV2\RPPOON LV2\obj\Debug\RPPOON LV2.exe
+C:\Users\korisnik\source\repos\RPPOON LV2\RPPOON LV2\obj\Debug\RPPOON LV2.pdb
